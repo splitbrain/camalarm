@@ -1,0 +1,23 @@
+{
+    "camera": "192.168.1.17",
+    "user": "admin",
+    "pass": "secret",
+    "checkminutes": 5,
+    "athome": [
+        "nexus4.fritz.box",
+        "galaxynexus.fritz.box"
+    ],
+    "awake": [
+        "rumpel.fritz.box",
+        "tiberius.fritz.box"
+    ],
+    "waketime": {
+        "mon": ["0630","2200"],
+        "tue": ["0630","2200"],
+        "wed": ["0630","2200"],
+        "thu": ["0630","2300"],
+        "fri": ["0630","2300"],
+        "sat": ["0730","2300"],
+        "sun": ["0730","2300"]
+    }
+}
